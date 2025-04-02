@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361539604503",
+    "project_id": "socia-2591f",
+    "storage_bucket": "socia-2591f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361539604503:android:316cf09512dedd94c58c52",
+        "android_client_info": {
+          "package_name": "com.example.project_socia_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHiRhNOYQkaEPXNMki_C0U-NZFv8O2X_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
